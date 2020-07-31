@@ -1,4 +1,4 @@
-﻿**J07 릴레이 미션 1 주차 : 기획**
+**J07 릴레이 미션 1 주차 : 기획**
 
  
 
@@ -13,14 +13,30 @@
 2. 회원 및 학교별 랭킹 보여주기, 경고 누적 팝업
 3. 회원 DB 설계 시 상점과 벌점을 저장하는 부분이 필요하고, 친구 추천 기능을 위해서는 선호도를 관리하는 부분이 필요하다.
 4. 레이아웃
-![image (1)](https://user-images.githubusercontent.com/48787170/89021216-1e2d6e80-d35b-11ea-95b8-72bd1a9f1e49.png)
-![image (2)](https://user-images.githubusercontent.com/48787170/89021222-1ff73200-d35b-11ea-849f-d02f125a2ca4.png)
-![image (3)](https://user-images.githubusercontent.com/48787170/89021224-208fc880-d35b-11ea-914e-5e114bd21cda.png)
-![image (4)](https://user-images.githubusercontent.com/48787170/89021226-208fc880-d35b-11ea-8617-7a105a3809fd.png)
-![image (5)](https://user-images.githubusercontent.com/48787170/89021229-21285f00-d35b-11ea-8d85-1e46a21a20a0.png)
-![image (6)](https://user-images.githubusercontent.com/48787170/89021230-21c0f580-d35b-11ea-850e-65e0744e39f1.png)
-![image (7)](https://user-images.githubusercontent.com/48787170/89021233-21c0f580-d35b-11ea-8b40-e32de330f9aa.png)
+
 ![image](https://user-images.githubusercontent.com/48787170/89021235-22598c00-d35b-11ea-80d3-a9361d0e83eb.png)
+[로그인 페이지]
+
+![image (1)](https://user-images.githubusercontent.com/48787170/89021216-1e2d6e80-d35b-11ea-95b8-72bd1a9f1e49.png)
+[게시판 페이지]
+
+![image (2)](https://user-images.githubusercontent.com/26537048/89039703-7c6b4900-d37d-11ea-9913-9e87efebb56e.png)
+[게시글 페이지]
+
+![image (3)](https://user-images.githubusercontent.com/48787170/89021224-208fc880-d35b-11ea-914e-5e114bd21cda.png)
+[친구 추천 팝업창]
+
+![image (4)](https://user-images.githubusercontent.com/48787170/89021226-208fc880-d35b-11ea-8617-7a105a3809fd.png)
+[마이페이지]
+
+![image (5)](https://user-images.githubusercontent.com/48787170/89021229-21285f00-d35b-11ea-8d85-1e46a21a20a0.png)
+[썸네일 설정 modal]
+
+![image (6)](https://user-images.githubusercontent.com/48787170/89021230-21c0f580-d35b-11ea-850e-65e0744e39f1.png)
+[상점 누적 팝업창]
+
+![image (7)](https://user-images.githubusercontent.com/48787170/89021233-21c0f580-d35b-11ea-8b40-e32de330f9aa.png)
+[경고 누적 팝업창]
 
 ## 인공지능을 활용한 기능
 ## A. 자연어 처리
@@ -43,7 +59,7 @@
 			https://github.com/songys/Toxic_comment_data
 https://wikidocs.net/book/2155
 https://wikidocs.net/44249				
-https://api.openhangul.com/overview?m=sentiment https://brunch.co.kr/@mapthecity/25
+https://api.openhangul.com/overview?m=sentimenthttps://brunch.co.kr/@mapthecity/25
 https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html
 https://github.com/mrlee23/KoreanSentimentAnalyzer
 
